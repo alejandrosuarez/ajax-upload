@@ -1,6 +1,5 @@
-This component isn't supported at the moment, please use a newer
-[qq.FileUploader plugin](http://valums.com/ajax-upload/) instead, which
-adds a couple of new options and features, and fixes some bugs.
+This component requieres json2.js to work properly on Internet Explorer. Please download it at
+https://github.com/douglascrockford/JSON-js
 
 ### AJAX Upload ###
 
