@@ -615,7 +615,7 @@
                         }
                         
                         if (response) {
-                            response = eval("(" + response + ")");
+                            response = JSON.parse(response);
                         } else {
                             response = {};
                         }
